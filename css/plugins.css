@@ -1,0 +1,29 @@
+/* ----------------------------------------------------------------
+			[ All Css Plugins & Helper Classes File ]
+	¸ü¶àÏÂÔØ£ºHttp://www.bootstrapmb.com
+-----------------------------------------------------------------*/
+
+
+/* == Bootstrap == */
+@import url("plugins/bootstrap.min.css");
+
+/* == Owl.carousel == */
+@import url("plugins/owl.carousel.min.css");
+@import url("plugins/owl.theme.default.min.css");
+
+/* == Animate css == */
+@import url("plugins/animate.min.css");
+
+/* == Icons ( et-lineicons and font awesome pro icons ==*/
+@import url("plugins/font-awesome-pro.css");
+@import url("plugins/et-lineicons.css");
+
+/* == Magnific-popup gallery  == */
+@import url("plugins/magnific-popup.css");
+
+/* == YouTubePopUp == */
+@import url("plugins/YouTubePopUp.css");
+
+/* == Vegas Slider == */
+@import url("plugins/vegas.slider.min.css");
+
