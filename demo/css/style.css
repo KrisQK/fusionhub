@@ -1,5 +1,5 @@
 /* ------------------------------------------------------------------
-æ›´å¤šä¸‹è½½ï¼šHttp://www.bootstrapmb.com
+更多下载：Http://www.bootstrapmb.com
 01. Typography style
 02. Owl-Theme custom style
 03. Preloader style
@@ -553,7 +553,7 @@ ul.disc li {
     text-align: left;
 }
 ul.disc.disc li:before {
-    content: "â€¢";
+    content: "•";
     font-size: 30px;
     margin: -1px 0 0 -20px;
     color: #dc2751;
